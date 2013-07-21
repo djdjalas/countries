@@ -16,7 +16,7 @@ Data is taken from:
 Flag icons
 -----------
 
-I included the flag icons from http://icondrawer.com/free.php  
+I've included the flag icons from http://icondrawer.com/free.php  
 See the link for details and terms of use.
 
 You can also get the flags in a wide range of sizes and flavors from this awesome project:  
