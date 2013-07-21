@@ -1,0 +1,254 @@
+en	nl	ISO3166_1_A2	ISO3166_1_A3	IOC	FIFA	FLAG
+Andorra	Andorra	AD	AND	AND	AND	ad.png
+United Arab Emirates	Verenigde Arabische Emiraten	AE	ARE	UAE	UAE	ae.png
+Afghanistan	Afghanistan	AF	AFG	AFG	AFG	af.png
+Antigua and Barbuda	Antigua en Barbuda	AG	ATG	ANT	ATG	ag.png
+Anguilla	Anguilla	AI	AIA		AIA	ai.png
+Albania	Albanië	AL	ALB	ALB	ALB	al.png
+Armenia	Armenië	AM	ARM	ARM	ARM	am.png
+Angola	Angola	AO	AGO	ANG	ANG	ao.png
+Antarctica	Antarctica	AQ	ATA			aq.png
+Argentina	Argentinië	AR	ARG	ARG	ARG	ar.png
+American Samoa	Amerikaans-Samoa	AS	ASM	ASA	ASA	as.png
+Austria	Oostenrijk	AT	AUT	AUT	AUT	at.png
+Australia	Australië	AU	AUS	AUS	AUS	au.png
+Aruba	Aruba	AW	ABW	ARU	ARU	aw.png
+Åland Islands	Åland	AX	ALA			ax.png
+Azerbaijan	Azerbeidzjan	AZ	AZE	AZE	AZE	az.png
+Bosnia and Herzegovina	Bosnië en Herzegovina	BA	BIH	BIH	BIH	ba.png
+Barbados	Barbados	BB	BRB	BAR	BRB	bb.png
+Bangladesh	Bangladesh	BD	BGD	BAN	BAN	bd.png
+Belgium	België	BE	BEL	BEL	BEL	be.png
+Burkina Faso	Burkina Faso	BF	BFA	BUR	BFA	bf.png
+Bulgaria	Bulgarije	BG	BGR	BUL	BUL	bg.png
+Bahrain	Bahrein	BH	BHR	BRN	BHR	bh.png
+Burundi	Burundi	BI	BDI	BDI	BDI	bi.png
+Benin	Benin	BJ	BEN	BEN	BEN	bj.png
+Saint Barthélemy	Saint-Barthélemy	BL	BLM			bl.png
+Bermuda	Bermuda	BM	BMU	BER	BER	bm.png
+Brunei Darussalam	Brunei	BN	BRN	BRU	BRU	bn.png
+Bolivia, Plurinational State of	Bolivia	BO	BOL	BOL	BOL	bo.png
+Bonaire, Sint Eustatius and Saba	Bonaire, Sint Eustatius en Saba	BQ	BES			bq.png
+Brazil	Brazilië	BR	BRA	BRA	BRA	br.png
+Bahamas	Bahama's	BS	BHS	BAH	BAH	bs.png
+Bhutan	Bhutan	BT	BTN	BHU	BHU	bt.png
+Bouvet Island	Bouvet	BV	BVT			bv.png
+Botswana	Botswana	BW	BWA	BOT	BOT	bw.png
+Belarus	Wit-Rusland	BY	BLR	BLR	BLR	by.png
+Belize	Belize	BZ	BLZ	BIZ	BLZ	bz.png
+Canada	Canada	CA	CAN	CAN	CAN	ca.png
+Cocos (Keeling) Islands	Cocoseilanden	CC	CCK			cc.png
+Congo, the Democratic Republic of the	Congo-Kinshasa	CD	COD	CGO	CGO	cd.png
+Central African Republic	Centraal-Afrikaanse Republiek	CF	CAF	CAF	CTA	cf.png
+Congo	Congo-Brazzaville	CG	COG	COD	COD	cg.png
+Switzerland	Zwitserland	CH	CHE	SUI	SUI	ch.png
+Côte d'Ivoire	Ivoorkust	CI	CIV	CIV	CIV	ci.png
+Cook Islands	Cookeilanden	CK	COK	COK	COK	ck.png
+Chile	Chili	CL	CHL	CHI	CHI	cl.png
+Cameroon	Kameroen	CM	CMR	CMR	CMR	cm.png
+China	China	CN	CHN	CHN	CHN	cn.png
+Colombia	Colombia	CO	COL	COL	COL	co.png
+Costa Rica	Costa Rica	CR	CRI	CRC	CRC	cr.png
+Cuba	Cuba	CU	CUB	CUB	CUB	cu.png
+Cape Verde	Kaapverdië	CV	CPV	CPV	CPV	cv.png
+Curaçao	Curaçao	CW	CUW		CUW	cw.png
+Christmas Island	Christmaseiland	CX	CXR			cx.png
+Cyprus	Cyprus	CY	CYP	CYP	CYP	cy.png
+Czech Republic	Tsjechië	CZ	CZE	CZE	CZE	cz.png
+Germany	Duitsland	DE	DEU	GER	GER	de.png
+Djibouti	Djibouti	DJ	DJI	DJI	DJI	dj.png
+Denmark	Denemarken	DK	DNK	DEN	DEN	dk.png
+Dominica	Dominica	DM	DMA	DMA	DMA	dm.png
+Dominican Republic	Dominicaanse Republiek	DO	DOM	DOM	DOM	do.png
+Algeria	Algerije	DZ	DZA	ALG	ALG	dz.png
+Ecuador	Ecuador	EC	ECU	ECU	ECU	ec.png
+Estonia	Estland	EE	EST	EST	EST	ee.png
+Egypt	Egypte	EG	EGY	EGY	EGY	eg.png
+Western Sahara	Westelijke Sahara	EH	ESH			eh.png
+Eritrea	Eritrea	ER	ERI	ERI	ERI	er.png
+Spain	Spanje	ES	ESP	ESP	ESP	es.png
+Ethiopia	Ethiopië	ET	ETH	ETH	ETH	et.png
+Finland	Finland	FI	FIN	FIN	FIN	fi.png
+Fiji	Fiji	FJ	FJI	FIJ	FIJ	fj.png
+Falkland Islands (Malvinas)	Falklandeilanden	FK	FLK			fk.png
+Micronesia, Federated States of	Micronesia	FM	FSM	FSM		fm.png
+Faroe Islands	Faeröer	FO	FRO		FRO	fo.png
+France	Frankrijk	FR	FRA	FRA	FRA	fr.png
+Gabon	Gabon	GA	GAB	GAB	GAB	ga.png
+United Kingdom	Verenigd Koninkrijk	GB	GBR	GBR		gb.png
+Grenada	Grenada	GD	GRD	GRN	GRN	gd.png
+Georgia	Georgië	GE	GEO	GEO	GEO	ge.png
+French Guiana	Frans-Guyana	GF	GUF			gf.png
+Guernsey	Guernsey	GG	GGY			gg.png
+Ghana	Ghana	GH	GHA	GHA	GHA	gh.png
+Gibraltar	Gibraltar	GI	GIB			gi.png
+Greenland	Groenland	GL	GRL			gl.png
+Gambia	Gambia	GM	GMB	GAM	GAM	gm.png
+Guinea	Guinee	GN	GIN	GUI	GUI	gn.png
+Guadeloupe	Guadeloupe	GP	GLP			gp.png
+Equatorial Guinea	Equatoriaal-Guinea	GQ	GNQ	GEQ	EQG	gq.png
+Greece	Griekenland	GR	GRC	GRE	GRE	gr.png
+South Georgia and the South Sandwich Islands	Zuid-Georgia en de Zuidelijke Sandwicheilanden	GS	SGS			gs.png
+Guatemala	Guatemala	GT	GTM	GUA	GUA	gt.png
+Guam	Guam	GU	GUM	GUM	GUM	gu.png
+Guinea-Bissau	Guinee-Bissau	GW	GNB	GBS	GNB	gw.png
+Guyana	Guyana	GY	GUY	GUY	GUY	gy.png
+Hong Kong	Hongkong	HK	HKG	HKG	HKG	hk.png
+Heard Island and McDonald Islands	Heard en McDonaldeilanden	HM	HMD			hm.png
+Honduras	Honduras	HN	HND	HON	HON	hn.png
+Croatia	Kroatië	HR	HRV	CRO	CRO	hr.png
+Haiti	Haïti	HT	HTI	HAI	HAI	ht.png
+Hungary	Hongarije	HU	HUN	HUN	HUN	hu.png
+Indonesia	Indonesië	ID	IDN	INA	IDN	id.png
+Ireland	Ierland	IE	IRL	IRL	IRL	ie.png
+Israel	Israël	IL	ISR	ISR	ISR	il.png
+Isle of Man	Man	IM	IMN			im.png
+India	India	IN	IND	IND	IND	in.png
+British Indian Ocean Territory	Brits Indische Oceaanterritorium	IO	IOT			io.png
+Iraq	Irak	IQ	IRQ	IRQ	IRQ	iq.png
+Iran, Islamic Republic of	Iran	IR	IRN	IRI	IRN	ir.png
+Iceland	IJsland	IS	ISL	ISL	ISL	is.png
+Italy	Italië	IT	ITA	ITA	ITA	it.png
+Jersey	Jersey	JE	JEY			je.png
+Jamaica	Jamaica	JM	JAM	JAM	JAM	jm.png
+Jordan	Jordanië	JO	JOR	JOR	JOR	jo.png
+Japan	Japan	JP	JPN	JPN	JPN	jp.png
+Kenya	Kenia	KE	KEN	KEN	KEN	ke.png
+Kyrgyzstan	Kirgizië	KG	KGZ	KGZ	KGZ	kg.png
+Cambodia	Cambodja	KH	KHM	CAM	CAM	kh.png
+Kiribati	Kiribati	KI	KIR	KIR		ki.png
+Comoros	Comoren	KM	COM	COM	COM	km.png
+Saint Kitts and Nevis	Saint Kitts en Nevis	KN	KNA	SKN	SKN	kn.png
+Korea, Democratic People's Republic of	Noord-Korea	KP	PRK	PRK	PRK	kp.png
+Korea, Republic of	Zuid-Korea	KR	KOR	KOR	KOR	kr.png
+Kuwait	Koeweit	KW	KWT	KUW	KUW	kw.png
+Cayman Islands	Kaaimaneilanden	KY	CYM	CAY	CAY	ky.png
+Kazakhstan	Kazachstan	KZ	KAZ	KAZ	KAZ	kz.png
+Lao People's Democratic Republic	Laos	LA	LAO	LAO	LAO	la.png
+Lebanon	Libanon	LB	LBN	LIB	LIB	lb.png
+Saint Lucia	Saint Lucia	LC	LCA	LCA	LCA	lc.png
+Liechtenstein	Liechtenstein	LI	LIE	LIE	LIE	li.png
+Sri Lanka	Sri Lanka	LK	LKA	SRI	SRI	lk.png
+Liberia	Liberia	LR	LBR	LBR	LBR	lr.png
+Lesotho	Lesotho	LS	LSO	LES	LES	ls.png
+Lithuania	Litouwen	LT	LTU	LTU	LTU	lt.png
+Luxembourg	Luxemburg	LU	LUX	LUX	LUX	lu.png
+Latvia	Letland	LV	LVA	LAT	LVA	lv.png
+Libya	Libië	LY	LBY	LBA	LBY	ly.png
+Morocco	Marokko	MA	MAR	MAR	MAR	ma.png
+Monaco	Monaco	MC	MCO	MON		mc.png
+Moldova, Republic of	Moldavië	MD	MDA	MDA	MDA	md.png
+Montenegro	Montenegro	ME	MNE	MNE	MNE	me.png
+Saint Martin (French)	Sint-Maarten (Frans)	MF	MAF			mf.png
+Madagascar	Madagaskar	MG	MDG	MAD	MAD	mg.png
+Marshall Islands	Marshalleilanden	MH	MHL	MHL		mh.png
+Macedonia, the former Yugoslav Republic of	Macedonië	MK	MKD	MKD	MKD	mk.png
+Mali	Mali	ML	MLI	MLI	MLI	ml.png
+Myanmar	Myanmar	MM	MMR	MYA	MYA	mm.png
+Mongolia	Mongolië	MN	MNG	MGL	MGL	mn.png
+Macao	Macau	MO	MAC		MAC	mo.png
+Northern Mariana Islands	Noordelijke Marianen	MP	MNP			mp.png
+Martinique	Martinique	MQ	MTQ			mq.png
+Mauritania	Mauritanië	MR	MRT	MTN	MTN	mr.png
+Montserrat	Montserrat	MS	MSR		MSR	ms.png
+Malta	Malta	MT	MLT	MLT	MLT	mt.png
+Mauritius	Mauritius	MU	MUS	MRI	MRI	mu.png
+Maldives	Maldiven	MV	MDV	MDV	MDV	mv.png
+Malawi	Malawi	MW	MWI	MAW	MWI	mw.png
+Mexico	Mexico	MX	MEX	MEX	MEX	mx.png
+Malaysia	Maleisië	MY	MYS	MAS	MAS	my.png
+Mozambique	Mozambique	MZ	MOZ	MOZ	MOZ	mz.png
+Namibia	Namibië	NA	NAM	NAM	NAM	na.png
+New Caledonia	Nieuw-Caledonië	NC	NCL		NCL	nc.png
+Niger	Niger	NE	NER	NIG	NIG	ne.png
+Norfolk Island	Norfolk	NF	NFK			nf.png
+Nigeria	Nigeria	NG	NGA	NGR	NGA	ng.png
+Nicaragua	Nicaragua	NI	NIC	NCA	NCA	ni.png
+Netherlands	Nederland	NL	NLD	NED	NED	nl.png
+Norway	Noorwegen	NO	NOR	NOR	NOR	no.png
+Nepal	Nepal	NP	NPL	NEP	NEP	np.png
+Nauru	Nauru	NR	NRU	NRU		nr.png
+Niue	Niue	NU	NIU			nu.png
+New Zealand	Nieuw-Zeeland	NZ	NZL	NZL	NZL	nz.png
+Oman	Oman	OM	OMN	OMA	OMA	om.png
+Panama	Panama	PA	PAN	PAN	PAN	pa.png
+Peru	Peru	PE	PER	PER	PER	pe.png
+French Polynesia	Frans-Polynesië	PF	PYF		TAH	pf.png
+Papua New Guinea	Papoea-Nieuw-Guinea	PG	PNG	PNG	PNG	pg.png
+Philippines	Filipijnen	PH	PHL	PHI	PHI	ph.png
+Pakistan	Pakistan	PK	PAK	PAK	PAK	pk.png
+Poland	Polen	PL	POL	POL	POL	pl.png
+Saint Pierre and Miquelon	Saint-Pierre en Miquelon	PM	SPM			pm.png
+Pitcairn	Pitcairneilanden	PN	PCN			pn.png
+Puerto Rico	Puerto Rico	PR	PRI	PUR	PUR	pr.png
+Palestinian Territory, Occupied	Palestijnse Autoriteit	PS	PSE	PLE	PLE	ps.png
+Portugal	Portugal	PT	PRT	POR	POR	pt.png
+Palau	Palau	PW	PLW	PLW		pw.png
+Paraguay	Paraguay	PY	PRY	PAR	PAR	py.png
+Qatar	Qatar	QA	QAT	QAT	QAT	qa.png
+Réunion	Réunion	RE	REU			re.png
+Romania	Roemenië	RO	ROU	ROU	ROU	rn.png
+Serbia	Servië	RS	SRB	SRB	SRB	ro.png
+Russian Federation	Rusland	RU	RUS	RUS	RUS	rs.png
+Rwanda	Rwanda	RW	RWA	RWA	RWA	ru.png
+Saudi Arabia	Saoedi-Arabië	SA	SAU	KSA	KSA	rw.png
+Solomon Islands	Salomonseilanden	SB	SLB	SOL	SOL	sa.png
+Seychelles	Seychellen	SC	SYC	SEY	SEY	sb.png
+Sudan	Soedan	SD	SDN	SUD	SDN	sc.png
+Sweden	Zweden	SE	SWE	SWE	SWE	sd.png
+Singapore	Singapore	SG	SGP	SIN	SIN	se.png
+Saint Helena, Ascension and Tristan da Cunha	Sint-Helena, Ascension en Tristan da Cunha	SH	SHN			sg.png
+Slovenia	Slovenië	SI	SVN	SLO	SVN	sh.png
+Svalbard and Jan Mayen	Spitsbergen en Jan Mayen	SJ	SJM			si.png
+Slovakia	Slowakije	SK	SVK	SVK	SVK	sj.png
+Sierra Leone	Sierra Leone	SL	SLE	SLE	SLE	sk.png
+San Marino	San Marino	SM	SMR	SMR	SMR	sl.png
+Senegal	Senegal	SN	SEN	SEN	SEN	sm.png
+Somalia	Somalië	SO	SOM	SOM	SOM	sn.png
+Suriname	Suriname	SR	SUR	SUR	SUR	so.png
+South Sudan	Zuid-Soedan	SS	SSD			sr.png
+Sao Tome and Principe	Sao Tomé en Principe	ST	STP	STP	STP	ss.png
+El Salvador	El Salvador	SV	SLV	ESA	SLV	st.png
+Sint Maarten (Dutch)	Sint Maarten (Nederlands)	SX	SXM			sv.png
+Syrian Arab Republic	Syrië	SY	SYR	SYR	SYR	sx.png
+Swaziland	Swaziland	SZ	SWZ	SWZ	SWZ	sy.png
+Turks and Caicos Islands	Turks- en Caicoseilanden	TC	TCA		TCA	sz.png
+Chad	Tsjaad	TD	TCD	CHA	CHA	tc.png
+French Southern Territories	Franse Zuidelijke en Antarctische Gebieden	TF	ATF			td.png
+Togo	Togo	TG	TGO	TOG	TOG	tf.png
+Thailand	Thailand	TH	THA	THA	THA	tg.png
+Tajikistan	Tadzjikistan	TJ	TJK	TJK	TJK	th.png
+Tokelau	Tokelau-eilanden	TK	TKL			tj.png
+Timor-Leste	Oost-Timor	TL	TLS	TLS	TLS	tk.png
+Turkmenistan	Turkmenistan	TM	TKM	TKM	TKM	tl.png
+Tunisia	Tunesië	TN	TUN	TUN	TUN	tm.png
+Tonga	Tonga	TO	TON	TGA	TGA	to.png
+Turkey	Turkije	TR	TUR	TUR	TUR	tr.png
+Trinidad and Tobago	Trinidad en Tobago	TT	TTO	TRI	TRI	tt.png
+Tuvalu	Tuvalu	TV	TUV	TUV		tv.png
+Taiwan, Province of China	Taiwan	TW	TWN	TPE	TPE	tw.png
+Tanzania, United Republic of	Tanzania	TZ	TZA	TAN	TAN	tz.png
+Ukraine	Oekraïne	UA	UKR	UKR	UKR	ua.png
+Uganda	Oeganda	UG	UGA	UGA	UGA	ug.png
+United States Minor Outlying Islands	Kleine Pacifische eilanden van de Verenigde Staten	UM	UMI			um.png
+United States	Verenigde Staten	US	USA	USA	USA	us.png
+Uruguay	Uruguay	UY	URY	URU	URU	uy.png
+Uzbekistan	Oezbekistan	UZ	UZB	UZB	UZB	uz.png
+Holy See (Vatican City State)	Vaticaanstad	VA	VAT			va.png
+Saint Vincent and the Grenadines	Saint Vincent en de Grenadines	VC	VCT	VIN	VIN	vc.png
+Venezuela, Bolivarian Republic of	Venezuela	VE	VEN	VEN	VEN	ve.png
+Virgin Islands, British	Britse Maagdeneilanden	VG	VGB	IVB	VGB	vg.png
+Virgin Islands, U.S.	Amerikaanse Maagdeneilanden	VI	VIR	ISV	VIR	vi.png
+Viet Nam	Vietnam	VN	VNM	VIE	VIE	vn.png
+Vanuatu	Vanuatu	VU	VUT	VAN	VAN	vu.png
+Wallis and Futuna	Wallis en Futuna	WF	WLF			wf.png
+Samoa	Samoa	WS	WSM	SAM	SAM	ws.png
+Yemen	Jemen	YE	YEM	YEM	YEM	ye.png
+Mayotte	Mayotte	YT	MYT			yt.png
+South Africa	Zuid-Afrika	ZA	ZAF	RSA	RSA	za.png
+Zambia	Zambia	ZM	ZMB	ZAM	ZAM	zm.png
+Zimbabwe	Zimbabwe	ZW	ZWE 	ZIM	ZIM	zw.png
+England	Engeland				ENG	_England.png
+Northern Ireland	Noord-Ierland				NIR	_Northern-Ireland.png
+Scotland	Schotland				SCO	_Scotland.png
+Wales	Wales				WAL	_Wales.png
