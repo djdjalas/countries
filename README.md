@@ -1,10 +1,10 @@
 About
 -----------
 
-This is a complete ISO 3166-1 encoding list. It is ordered by ISO3166_1_A2 ascending. There are currently 249 ISO 3166-1 countries. England, Northern-Ireland, Scotland and Wales are added to that because they are used by FIFA. It also contains the corresponding IOC and FIFA three letter codes and the filenames of the country flag image(s).
+This is a complete ISO 3166-1 encoding list, with short country names. It is ordered by ISO3166_1_A2 ascending. There are currently 249 ISO 3166-1 countries. England, Northern-Ireland, Scotland and Wales are added to that because they are used by FIFA. It also contains the corresponding IOC and FIFA three letter codes and the filenames of the country flag image(s).
 
 + Total countries: 253  
-+ Fileformat: txt file separated by tabs
++ Fileformat: txt file separated by tabs, and corresponding excel file
 + Languages: English (en), Dutch (nl)
 
 Data is taken from:

@@ -181,7 +181,7 @@ Poland	Polen	PL	POL	POL	POL	pl.png
 Saint Pierre and Miquelon	Saint-Pierre en Miquelon	PM	SPM			pm.png
 Pitcairn	Pitcairneilanden	PN	PCN			pn.png
 Puerto Rico	Puerto Rico	PR	PRI	PUR	PUR	pr.png
-Palestinian Territory, Occupied	Palestijnse Autoriteit	PS	PSE	PLE	PLE	ps.png
+Palestine, State of	Palestina	PS	PSE	PLE	PLE	ps.png
 Portugal	Portugal	PT	PRT	POR	POR	pt.png
 Palau	Palau	PW	PLW	PLW		pw.png
 Paraguay	Paraguay	PY	PRY	PAR	PAR	py.png
